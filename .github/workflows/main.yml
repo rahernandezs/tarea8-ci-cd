@@ -9,7 +9,7 @@ env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: repo-tarea8
   ECS_CLUSTER: cluster-tarea8
-  ECS_SERVICE: servicio-tarea8
+  ECS_SERVICE: tarea8-task-service-vrsn97x0
 
 jobs:
   deploy:
